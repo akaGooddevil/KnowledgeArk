@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "178e5c6d26e5eb36",
+        "id": "7abf034bf235fa2c",
         "type": "tabs",
         "children": [
           {
-            "id": "bf748130fdda60c6",
+            "id": "8434e37a42493f7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,8 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf748130fdda60c6",
+  "active": "8434e37a42493f7c",
   "lastOpenFiles": [
+    "English/Vocabulary/Axe jobs.md",
+    "English/Vocabulary/Slash Prices.md",
+    "English/Vocabulary/Trespassers.md",
+    "English/Vocabulary/Dispose of.md",
+    "English/Vocabulary/alight from the ....md",
+    "Untitled.md",
+    "English/Vocabulary/give me a ring.md",
+    "English/Vocabulary/have a think.md",
+    "English/Vocabulary/bored stiff.md",
+    "English/Vocabulary/consist of.md",
+    "English/Vocabulary/buy someone's argument.md",
+    "Bored Stiff.md",
     "English/Grammar/tense/Present Simple.md",
     "English/collocations/Consist of.md",
     "English/Grammar/Present Continues.md",
