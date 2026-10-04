@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7abf034bf235fa2c",
+        "id": "0d68caae8307125d",
         "type": "tabs",
         "children": [
           {
-            "id": "8434e37a42493f7c",
+            "id": "7538b92ebb8ab3cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8434e37a42493f7c",
+  "active": "7538b92ebb8ab3cb",
   "lastOpenFiles": [
+    "English/Vocabulary/Oppose.md",
+    "English/Vocabulary/Utterly.md",
+    "English/Vocabulary/Controversial.md",
     "English/Vocabulary/Axe jobs.md",
     "English/Vocabulary/Slash Prices.md",
     "English/Vocabulary/Trespassers.md",
